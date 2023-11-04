@@ -1,7 +1,7 @@
 [
         
         {
-        "id":"1",
+        "id":1,
         "ad-name": "Elementary Special Education Teacher (2023-2024)",
         "company-name": "Citirex",
         "job-location": "Los Angeles, CA 91403 (Sherman Oaks area)",
@@ -12,7 +12,7 @@
         
     },
     {
-        "id":"2",
+        "id":2,
         "ad-name": "House Cleaner - Full Time - Up to $1000 Weekly + tips!",
         "company-name": "Citirex",
         "job-location": "Los Angeles, CA 91403 (Sherman Oaks area)",
@@ -23,7 +23,7 @@
         
     },
     {
-        "id":"3",
+        "id":3,
         "ad-name": "At Sea Processors - Now Hiring for A Season 2024",
         "company-name": "Citirex",
         "job-location": "Los Angeles, CA 91403 (Sherman Oaks area)",
@@ -34,7 +34,7 @@
         
     },
     {
-        "id":"4",
+        "id":4,
         "ad-name": "Hiring Now - Date Night Babysitter for 4 girls - $35/hr!",
         "company-name": "Citirex",
         "job-location": "Los Angeles, CA 91403 (Sherman Oaks area)",
@@ -45,7 +45,7 @@
         
     },
     {
-        "id":"5",
+        "id":5,
         "ad-name": "Kohl's Distribution Virtual Hiring Days",
         "company-name": "Citirex",
         "job-location": "Los Angeles, CA 91403 (Sherman Oaks area)",
@@ -56,7 +56,7 @@
         
     },
     {
-        "id":"6",
+        "id":6,
         "ad-name": "Seasonal Warehouse Associate",
         "company-name": "Citirex",
         "job-location": "Los Angeles, CA 91403 (Sherman Oaks area)",
